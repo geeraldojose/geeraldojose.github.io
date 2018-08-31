@@ -1,0 +1,43 @@
+.lead{
+    color:ghostwhite;
+    font-size: 25px;
+}
+
+
+#about{
+    
+    background-color: ghostwhite;
+    color:black;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+.media{
+    margin-top: 0px;
+}
+
+#carousel-example-generic{
+    width: 100%;
+    height: 10%;
+}
+
+#deskripsiabout{
+    color: black;
+}
+
+.modal-dialog {width:600px;}
+.thumbnail {margin-bottom:6px;}
+
+#brands{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
