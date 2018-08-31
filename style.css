@@ -6,8 +6,8 @@
 
 #about{
     
-    background-color: ghostwhite;
-    color:black;
+    background-color: papayawhip;
+    
 }
 
 .navbar{
@@ -32,12 +32,36 @@
 #brands{
     color: black;
 }
+.testimoni{
+margin-bottom: 10px;
+margin-top: 10px;
+}
+#inner{
+        height: 270px
+}
+#logo{
+    background-color: whitesmoke;
+    margin-bottom: 50px;
+}
+#footer{
+    
+    background-color:wheat;
+    margin-top: 2px;
+    
+    }
+.lead{
+    color: black;
+}
 
+#deskripsiabout{
+    padding-top: 100px;
+}
 
+.carousel-caption{
+    color: white;
+}
 
-
-
-
-
-
-
+#gambarlogo{
+    padding-left: 100px;
+    margin-bottom: 20px;
+}
